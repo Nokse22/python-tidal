@@ -29,6 +29,7 @@ from typing import (
     Optional,
     Union,
     cast,
+    Type,
 )
 
 from tidalapi.types import JsonObj
